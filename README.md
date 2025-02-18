@@ -1,7 +1,7 @@
 # LLM_BP
 
 ## Overview
-This is the official implementation of paper 'Model Generalization on Text Attribute Graphs: Principles with Lagre Language Models', Haoyu Wang, Shikun Liu, Rongzhe Wei, Pan Li.
+This is the official implementation of paper ['Model Generalization on Text Attribute Graphs: Principles with Large Language Models'](http://arxiv.org/abs/2502.11836), Haoyu Wang, Shikun Liu, Rongzhe Wei, Pan Li.
 
 ## Repository Structure
 
@@ -181,3 +181,14 @@ The dataset pre-processing, formats and code implementations are inspired by or 
 
 
 ## Citation
+
+If you find our work helpful, please consider citing:
+
+```
+@article{wang2025model,
+title={Model Generalization on Text Attribute Graphs: Principles with Large Language Models},
+author={Wang, Haoyu and Liu, Shikun and Wei, Rongzhe and Li, Pan},
+journal={arXiv preprint arXiv:2502.11836},
+year={2025}
+}
+```
