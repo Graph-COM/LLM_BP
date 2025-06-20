@@ -1,5 +1,9 @@
 # LLM_BP
 
+[[Paper]]([https://arxiv.org/abs/2410.20724](https://arxiv.org/html/2502.11836v2))
+
+![model](framework_241104.png)
+
 ## Overview
 This is the official implementation of paper ['Model Generalization on Text Attribute Graphs: Principles with Large Language Models'](http://arxiv.org/abs/2502.11836), Haoyu Wang, Shikun Liu, Rongzhe Wei, Pan Li.
 
