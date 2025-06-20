@@ -1,6 +1,6 @@
 # LLM_BP
 
-[[Paper]]([https://arxiv.org/abs/2410.20724](https://arxiv.org/html/2502.11836v2))
+[[Paper]](https://arxiv.org/html/2502.11836v2)
 
 ![model](framework_241104.png)
 
