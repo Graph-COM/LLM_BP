@@ -5,7 +5,7 @@
 ![model](model-arch.png)
 
 ## Overview
-This is the official implementation of paper ['Model Generalization on Text Attribute Graphs: Principles with Large Language Models'](http://arxiv.org/abs/2502.11836), Haoyu Wang, Shikun Liu, Rongzhe Wei, Pan Li.
+This is the official implementation of ICML 2025 paper ['Model Generalization on Text Attribute Graphs: Principles with Large Language Models'](http://arxiv.org/abs/2502.11836), Haoyu Wang, Shikun Liu, Rongzhe Wei, Pan Li.
 
 ## Repository Structure
 
